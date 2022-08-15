@@ -1,6 +1,6 @@
 ### Hey, I'm Deep 👋
 
-I'm a full-stack engineer & sports lover.
+I'm a full-stack engineer.
 
 ## ⚡️ Current
 
